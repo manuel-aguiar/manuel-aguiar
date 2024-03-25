@@ -4,20 +4,20 @@
 
 :books: Eager to learn about algorithms and programming, as much as i can
 
-Currently going full geek on C and C++ (high level assembly...? C++references==pointers PROVE ME WRONG)
+:musical_keyboard: Currently going full geek on C and C++ (high level assembly...? C++references==pointers PROVE ME WRONG)
 
-Excel, VBA (brah, i work in a bank, what do you think we use over here..)
-
-
+:moneybag: Excel, VBA (brah, i work in a bank, what do you think we use over here..)
 
 
-Some hobbies:
+
+
+Some hobbies :rocket: :
 
 :guitar: Playing the guitar, air drumming, shower singing
 
 :angry: Casual Battlefield player
 
-Learning history from very reliable Wikipedia sources :sweat_smile:
+:sweat_smile: Learning history from very reliable Wikipedia sources :sweat_smile:
 
 
 
