@@ -13,9 +13,9 @@
 
 Some hobbies :rocket: :
 
-:guitar: Playing the guitar, air drumming, shower singing
+:guitar: Playing the guitar, air drumming, shower singing :microphone:
 
-:angry: Casual Battlefield player
+:angry: Casual Battlefield player :rage:
 
 :sweat_smile: Learning history from very reliable Wikipedia sources :sweat_smile:
 
