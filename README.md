@@ -4,7 +4,7 @@
 
 :books: Eager to learn about algorithms and programming, as much as i can
 
-:musical_keyboard: Currently going full geek on C and C++ (high level assembly...? C++references==pointers PROVE ME WRONG)
+:musical_keyboard: Currently going full geek on C and C++ (high level assembly...? C++references==pointers CHANGE MY MIND)
 
 :moneybag: Excel, VBA (brah, i work in a bank, what do you think we use over here..)
 
