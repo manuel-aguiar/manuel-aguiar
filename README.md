@@ -4,8 +4,11 @@
 
 :books: Eager to learn about algorithms and programming, as much as i can
 
-	Currently going full geek on C and C++ (high level assembly...? C++references==pointers PROVE ME WRONG)
-	Excel, VBA (brah, i work in a bank, what do you think we use over here..)
+Currently going full geek on C and C++ (high level assembly...? C++references==pointers PROVE ME WRONG)
+
+Excel, VBA (brah, i work in a bank, what do you think we use over here..)
+
+
 
 
 Some hobbies:
