@@ -9,6 +9,7 @@
 
 
 Some hobbies:
+
 :guitar: Playing the guitar, air drumming, shower singing
 :angry: Casual Battlefield player
 Learning history from very reliable Wikipedia sources :sweat_smile:
