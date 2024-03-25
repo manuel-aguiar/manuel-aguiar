@@ -2,7 +2,7 @@
 
   I'm studying programming at 42 Lisbon and currently work as a Fixed Income Portfolio Manager (what is that?? :neutral_face:) at Grupo Novo Banco Gestão de Activos.
 
-:books: Wager to learn about algorithms and programming, as much as i can
+:books: Eager to learn about algorithms and programming, as much as i can
 
 	Currently going full geek on C and C++ (high level assembly...? C++references==pointers PROVE ME WRONG)
 	Excel, VBA (brah, i work in a bank, what do you think we use over here..)
