@@ -17,7 +17,7 @@ Some hobbies :rocket: :
 
 :angry: Casual Battlefield player :rage:
 
-:sweat_smile: Learning history from very reliable Wikipedia sources :sweat_smile:
+:flushed: Learning history from very reliable Wikipedia sources :sweat_smile:
 
 
 
