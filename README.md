@@ -24,3 +24,7 @@ Some hobbies :rocket: :
 That's it, feel free to take a look at my repos, mostly 42 projects :sweat_smile: FOR NOW :heart:
 
 Cheerss
+
+## 42 School
+
+[![mmaria-d's 42 stats](https://badge.mediaplus.ma/darkblue/mmaria-d?1337Badge=off)](https://github.com/oakoudad/badge42)
