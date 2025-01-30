@@ -4,7 +4,7 @@
 
 :books: Eager to learn about algorithms and programming, as much as i can
 
-:musical_keyboard: Currently going full geek on C and C++ (high level assembly...? C++references==pointers CHANGE MY MIND)
+:musical_keyboard: Focusing on improving my c and C++ knowledge
 
 
 Some hobbies :rocket: :
